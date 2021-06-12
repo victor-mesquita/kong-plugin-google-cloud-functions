@@ -1,5 +1,3 @@
-[![Build Status][badge-travis-image]][badge-travis-url]
-
 Kong google cloud functions plugin
 ====================
 
